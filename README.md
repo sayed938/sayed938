@@ -34,7 +34,7 @@
       alt="java"/> 
   </a>
   <a href="https://www.kotlin.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="kotlin"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
