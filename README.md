@@ -56,16 +56,13 @@
       alt="sqlite"/> 
   </a>
   <a href="https://developer.android.com/training/data-storage/room" target="_blank"> 
-    <img src="https://img.shields.io/badge/room-47A248.svg?style=for-the-badge&logo=room&logoColor=white"
-      alt="room"/> 
+    <img src="https://img.shields.io/badge/room-003B57.svg?style=for-the-badge&logo=room&logoColor=white"
+      alt="Room"/> 
   </a> 
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
