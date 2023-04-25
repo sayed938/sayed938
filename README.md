@@ -23,12 +23,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://user-images.githubusercontent.com/76561691/234148313-3996d803-9b49-4391-b087-fe16b44244e3.gif
-"/>
-</p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
+  <img style="width:26rem; height:auto" src="https://user-images.githubusercontent.com/76561691/234148313-3996d803-9b49-4391-b087-fe16b44244e3.gif"/>
 </p>
 
 <h3 align="center">Languages</h3>
