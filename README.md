@@ -10,11 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Android Development**
 
-- 🤝 I’m looking for help with **Backend Design**
-
 - 👨‍💻 All of my projects are available [@sayed938](https://github.com/sayed938/)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **Android Development and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
