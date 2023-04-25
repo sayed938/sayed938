@@ -22,11 +22,9 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<iframe src="https://user-images.githubusercontent.com/76561691/234148234-cd4b0dc7-b2e0-447a-8c74-ad4710c78a3d.gif
-" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
-
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+  <img style="width:26rem; height:auto" src="https://user-images.githubusercontent.com/76561691/234148313-3996d803-9b49-4391-b087-fe16b44244e3.gif
+"/>
 </p>
 
 <p align="center">
