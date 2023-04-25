@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate android developer from Egypt.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://user-images.githubusercontent.com/76561691/234142939-6784aecf-2b20-436d-b11a-46e5874af7a7.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** 
 
 - 👯 I’m looking to collaborate on **Android Development**
 
