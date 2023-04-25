@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate android developer from Egypt.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** 
+- 🌱 I’m currently learning **Self development** 
 
 - 👯 I’m looking to collaborate on **Android Development**
 
