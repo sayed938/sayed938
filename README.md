@@ -20,9 +20,9 @@
 ---
 
 
-<h1 align="center"><u><b>Knowledge Base</b></u></h2>
+<h1 align="center"><u><b>    Knowledge Base</b></u></h2>
 
-<p align="40rem">
+<p align="center">
   <img style="width:20rem; height:auto" src="https://user-images.githubusercontent.com/76561691/234148313-3996d803-9b49-4391-b087-fe16b44244e3.gif"/>
 </p>
 
