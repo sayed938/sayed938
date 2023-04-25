@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:4rem" src="https://user-images.githubusercontent.com/76561691/234141273-dae2e35a-2121-4b01-b3c8-3ce95f705311.png"/>
+  <img style="width:12rem; height:4rem" src="https://user-images.githubusercontent.com/76561691/234141273-dae2e35a-2121-4b01-b3c8-3ce95f705311.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Sayed Samir<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
