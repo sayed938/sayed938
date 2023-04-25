@@ -34,11 +34,11 @@
       alt="java"/> 
   </a>
   <a href="https://www.kotlin.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
       alt="kotlin"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+    <img src="https://img.shields.io/badge/c++-F7DF1E.svg?style=for-the-badge&logo=c++&logoColor=black"
       alt="javascript"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
