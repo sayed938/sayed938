@@ -33,13 +33,13 @@
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
-  <a href="https://www.kotlin.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
+  <a href="https://www.kotlin.com](https://kotlinlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin-007396.svg?style=for-the-badge&logo=kotlin&logoColor=blue" 
       alt="kotlin"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://img.shields.io/badge/c++-F7DF1E.svg?style=for-the-badge&logo=c++&logoColor=black"
-      alt="javascript"/> 
+      alt="c++"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
