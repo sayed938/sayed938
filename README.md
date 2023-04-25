@@ -17,7 +17,7 @@
 
 ---
 
-<details  align="center" font-size="20" >
+<details  align="center" font-size="50" >
 <summary>🔬 <strong>my skillset</strong></summary>
 
 <p align="center" >
