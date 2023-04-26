@@ -6,7 +6,6 @@
 <h3 font-size="20" align="center">A passionate android developer from Egypt.</h3>
 
 
-- 🌱 I’m currently learning **Self development** 
 
 - 👯 I’m looking to collaborate on **Android Development**
 
@@ -16,8 +15,8 @@
 
 
 ---
-
-<details  align="center" font-size="50" >
+<h2  align="center">my skillset</h2>
+<details  align="center"  >
 <summary>🔬 <strong>my skillset</strong></summary>
 
 <p align="center" >
